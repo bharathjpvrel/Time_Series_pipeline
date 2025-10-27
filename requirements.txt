@@ -1,4 +1,8 @@
 from_root
-
+boto3
+pandas
+pyarrow
+fastparquet
+python-dotenv
 
 -e .
