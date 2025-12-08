@@ -4,5 +4,6 @@ pandas
 pyarrow
 fastparquet
 python-dotenv
+PyYAML
 
 -e .

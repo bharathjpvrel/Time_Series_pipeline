@@ -1,0 +1,9 @@
+columns:
+  - Store
+  - Date
+  - Weekly_Revenue
+  - Holiday_Flag
+  - Temperature
+  - Fuel_Price
+  - CPI
+  - Unemployment
